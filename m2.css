@@ -59,7 +59,7 @@
     top: 0%;
     right: 5%;
     line-height: 50%;
-    background-color: blue;
+    background-color: red;
   }
   #p3 {
     position: absolute;
@@ -69,7 +69,7 @@
     top: 0%;
     right: 5%;
     line-height: 50%;
-    background-color: brown;
+    background-color: yellow;
   }
   
   /* Simple Responsive Framework. */
